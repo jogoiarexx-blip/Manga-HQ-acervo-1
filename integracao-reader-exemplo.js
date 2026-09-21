@@ -1,4 +1,4 @@
-const ACERVO_URL = "https://SEU-USUARIO.github.io/Manga-HQ-Acervo-Teste/";
+const ACERVO_URL = "https://jogoiarexx-blip.github.io/Manga-HQ-acervo-1/";
 
 export async function carregarAcervoExterno() {
   const resposta = await fetch(`${ACERVO_URL}catalogo.json`, { cache: "no-store" });
