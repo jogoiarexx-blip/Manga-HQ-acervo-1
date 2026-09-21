@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "name": "Manga HQ Acervo - Teste",
+  "format": "webp-pages",
+  "collections": [
+    {
+      "id": "godzilla-vs-power-rangers",
+      "title": "Godzilla vs Power Rangers",
+      "issues": [
+        {
+          "id": "godzilla-vs-power-rangers-1",
+          "issue": 1,
+          "title": "Godzilla vs Power Rangers #1",
+          "pageCount": 22,
+          "cover": "colecoes/godzilla-vs-power-rangers/01/001.webp",
+          "manifest": "colecoes/godzilla-vs-power-rangers/01/manifest.json"
+        },
+        {
+          "id": "godzilla-vs-power-rangers-2",
+          "issue": 2,
+          "title": "Godzilla vs Power Rangers #2",
+          "pageCount": 22,
+          "cover": "colecoes/godzilla-vs-power-rangers/02/001.webp",
+          "manifest": "colecoes/godzilla-vs-power-rangers/02/manifest.json"
+        },
+        {
+          "id": "godzilla-vs-power-rangers-3",
+          "issue": 3,
+          "title": "Godzilla vs Power Rangers #3",
+          "pageCount": 24,
+          "cover": "colecoes/godzilla-vs-power-rangers/03/001.webp",
+          "manifest": "colecoes/godzilla-vs-power-rangers/03/manifest.json"
+        },
+        {
+          "id": "godzilla-vs-power-rangers-4",
+          "issue": 4,
+          "title": "Godzilla vs Power Rangers #4",
+          "pageCount": 23,
+          "cover": "colecoes/godzilla-vs-power-rangers/04/001.webp",
+          "manifest": "colecoes/godzilla-vs-power-rangers/04/manifest.json"
+        },
+        {
+          "id": "godzilla-vs-power-rangers-5",
+          "issue": 5,
+          "title": "Godzilla vs Power Rangers #5",
+          "pageCount": 22,
+          "cover": "colecoes/godzilla-vs-power-rangers/05/001.webp",
+          "manifest": "colecoes/godzilla-vs-power-rangers/05/manifest.json"
+        }
+      ]
+    },
+    {
+      "id": "sonic",
+      "title": "Sonic the Hedgehog",
+      "issues": [
+        {
+          "id": "sonic-the-hedgehog-caras-maus-1",
+          "issue": 1,
+          "title": "Sonic the Hedgehog: Caras Maus #1",
+          "pageCount": 32,
+          "cover": "colecoes/sonic/caras-maus/01/001.webp",
+          "manifest": "colecoes/sonic/caras-maus/01/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-caras-maus-2",
+          "issue": 2,
+          "title": "Sonic the Hedgehog: Caras Maus #2",
+          "pageCount": 31,
+          "cover": "colecoes/sonic/caras-maus/02/001.webp",
+          "manifest": "colecoes/sonic/caras-maus/02/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-caras-maus-3",
+          "issue": 3,
+          "title": "Sonic the Hedgehog: Caras Maus #3",
+          "pageCount": 31,
+          "cover": "colecoes/sonic/caras-maus/03/001.webp",
+          "manifest": "colecoes/sonic/caras-maus/03/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-caras-maus-4",
+          "issue": 4,
+          "title": "Sonic the Hedgehog: Caras Maus #4",
+          "pageCount": 32,
+          "cover": "colecoes/sonic/caras-maus/04/001.webp",
+          "manifest": "colecoes/sonic/caras-maus/04/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-sindrome-do-impostor-1",
+          "issue": 1,
+          "title": "Sonic the Hedgehog: Síndrome do Impostor #1",
+          "pageCount": 33,
+          "cover": "colecoes/sonic/sindrome-do-impostor/01/001.webp",
+          "manifest": "colecoes/sonic/sindrome-do-impostor/01/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-sindrome-do-impostor-2",
+          "issue": 2,
+          "title": "Sonic the Hedgehog: Síndrome do Impostor #2",
+          "pageCount": 32,
+          "cover": "colecoes/sonic/sindrome-do-impostor/02/001.webp",
+          "manifest": "colecoes/sonic/sindrome-do-impostor/02/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-sindrome-do-impostor-3",
+          "issue": 3,
+          "title": "Sonic the Hedgehog: Síndrome do Impostor #3",
+          "pageCount": 34,
+          "cover": "colecoes/sonic/sindrome-do-impostor/03/001.webp",
+          "manifest": "colecoes/sonic/sindrome-do-impostor/03/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-sindrome-do-impostor-4",
+          "issue": 4,
+          "title": "Sonic the Hedgehog: Síndrome do Impostor #4",
+          "pageCount": 36,
+          "cover": "colecoes/sonic/sindrome-do-impostor/04/001.webp",
+          "manifest": "colecoes/sonic/sindrome-do-impostor/04/manifest.json"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "godzilla-vs-power-rangers-1",
+      "issue": 1,
+      "title": "Godzilla vs Power Rangers #1",
+      "pageCount": 22,
+      "cover": "colecoes/godzilla-vs-power-rangers/01/001.webp",
+      "manifest": "colecoes/godzilla-vs-power-rangers/01/manifest.json",
+      "collectionId": "godzilla-vs-power-rangers",
+      "collectionTitle": "Godzilla vs Power Rangers"
+    },
+    {
+      "id": "godzilla-vs-power-rangers-2",
+      "issue": 2,
+      "title": "Godzilla vs Power Rangers #2",
+      "pageCount": 22,
+      "cover": "colecoes/godzilla-vs-power-rangers/02/001.webp",
+      "manifest": "colecoes/godzilla-vs-power-rangers/02/manifest.json",
+      "collectionId": "godzilla-vs-power-rangers",
+      "collectionTitle": "Godzilla vs Power Rangers"
+    },
+    {
+      "id": "godzilla-vs-power-rangers-3",
+      "issue": 3,
+      "title": "Godzilla vs Power Rangers #3",
+      "pageCount": 24,
+      "cover": "colecoes/godzilla-vs-power-rangers/03/001.webp",
+      "manifest": "colecoes/godzilla-vs-power-rangers/03/manifest.json",
+      "collectionId": "godzilla-vs-power-rangers",
+      "collectionTitle": "Godzilla vs Power Rangers"
+    },
+    {
+      "id": "godzilla-vs-power-rangers-4",
+      "issue": 4,
+      "title": "Godzilla vs Power Rangers #4",
+      "pageCount": 23,
+      "cover": "colecoes/godzilla-vs-power-rangers/04/001.webp",
+      "manifest": "colecoes/godzilla-vs-power-rangers/04/manifest.json",
+      "collectionId": "godzilla-vs-power-rangers",
+      "collectionTitle": "Godzilla vs Power Rangers"
+    },
+    {
+      "id": "godzilla-vs-power-rangers-5",
+      "issue": 5,
+      "title": "Godzilla vs Power Rangers #5",
+      "pageCount": 22,
+      "cover": "colecoes/godzilla-vs-power-rangers/05/001.webp",
+      "manifest": "colecoes/godzilla-vs-power-rangers/05/manifest.json",
+      "collectionId": "godzilla-vs-power-rangers",
+      "collectionTitle": "Godzilla vs Power Rangers"
+    },
+    {
+      "id": "sonic-the-hedgehog-caras-maus-1",
+      "issue": 1,
+      "title": "Sonic the Hedgehog: Caras Maus #1",
+      "pageCount": 32,
+      "cover": "colecoes/sonic/caras-maus/01/001.webp",
+      "manifest": "colecoes/sonic/caras-maus/01/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-caras-maus-2",
+      "issue": 2,
+      "title": "Sonic the Hedgehog: Caras Maus #2",
+      "pageCount": 31,
+      "cover": "colecoes/sonic/caras-maus/02/001.webp",
+      "manifest": "colecoes/sonic/caras-maus/02/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-caras-maus-3",
+      "issue": 3,
+      "title": "Sonic the Hedgehog: Caras Maus #3",
+      "pageCount": 31,
+      "cover": "colecoes/sonic/caras-maus/03/001.webp",
+      "manifest": "colecoes/sonic/caras-maus/03/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-caras-maus-4",
+      "issue": 4,
+      "title": "Sonic the Hedgehog: Caras Maus #4",
+      "pageCount": 32,
+      "cover": "colecoes/sonic/caras-maus/04/001.webp",
+      "manifest": "colecoes/sonic/caras-maus/04/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-sindrome-do-impostor-1",
+      "issue": 1,
+      "title": "Sonic the Hedgehog: Síndrome do Impostor #1",
+      "pageCount": 33,
+      "cover": "colecoes/sonic/sindrome-do-impostor/01/001.webp",
+      "manifest": "colecoes/sonic/sindrome-do-impostor/01/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-sindrome-do-impostor-2",
+      "issue": 2,
+      "title": "Sonic the Hedgehog: Síndrome do Impostor #2",
+      "pageCount": 32,
+      "cover": "colecoes/sonic/sindrome-do-impostor/02/001.webp",
+      "manifest": "colecoes/sonic/sindrome-do-impostor/02/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-sindrome-do-impostor-3",
+      "issue": 3,
+      "title": "Sonic the Hedgehog: Síndrome do Impostor #3",
+      "pageCount": 34,
+      "cover": "colecoes/sonic/sindrome-do-impostor/03/001.webp",
+      "manifest": "colecoes/sonic/sindrome-do-impostor/03/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-sindrome-do-impostor-4",
+      "issue": 4,
+      "title": "Sonic the Hedgehog: Síndrome do Impostor #4",
+      "pageCount": 36,
+      "cover": "colecoes/sonic/sindrome-do-impostor/04/001.webp",
+      "manifest": "colecoes/sonic/sindrome-do-impostor/04/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    }
+  ],
+  "itemCount": 13
+}
