@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "series": "Spawn: A Idade das Trevas",
+  "title": "Spawn: A Idade das Trevas #1",
+  "issue": 1,
+  "folder": "Spawn - A Idade das Trevas #01",
+  "sourceFormat": "CBR",
+  "pageFormat": "WebP",
+  "pageCount": 24,
+  "cover": "001.webp",
+  "pages": [
+    "001.webp",
+    "002.webp",
+    "003.webp",
+    "004.webp",
+    "005.webp",
+    "006.webp",
+    "007.webp",
+    "008.webp",
+    "009.webp",
+    "010.webp",
+    "011.webp",
+    "012.webp",
+    "013.webp",
+    "014.webp",
+    "015.webp",
+    "016.webp",
+    "017.webp",
+    "018.webp",
+    "019.webp",
+    "020.webp",
+    "021.webp",
+    "022.webp",
+    "023.webp",
+    "024.webp"
+  ],
+  "sourcePages": [
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-000.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-001.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-002.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-003.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-004.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-005.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-006.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-007.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-008.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-009.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-010.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-011.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-012.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-013.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-014.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-015.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-016.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-017.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-018.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-019.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-020.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-021.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-022.jpg",
+    "Spawn.The.Dark.Ages.01.HQ.BR.14ABR06.GibiHQ.pdf-023.jpg"
+  ],
+  "dimensions": [
+    {
+      "page": "001.webp",
+      "width": 1000,
+      "height": 1551
+    },
+    {
+      "page": "002.webp",
+      "width": 1000,
+      "height": 1529
+    },
+    {
+      "page": "003.webp",
+      "width": 1000,
+      "height": 1548
+    },
+    {
+      "page": "004.webp",
+      "width": 1000,
+      "height": 1573
+    },
+    {
+      "page": "005.webp",
+      "width": 1000,
+      "height": 1573
+    },
+    {
+      "page": "006.webp",
+      "width": 1000,
+      "height": 1573
+    },
+    {
+      "page": "007.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "008.webp",
+      "width": 1000,
+      "height": 1573
+    },
+    {
+      "page": "009.webp",
+      "width": 960,
+      "height": 1510
+    },
+    {
+      "page": "010.webp",
+      "width": 1000,
+      "height": 1573
+    },
+    {
+      "page": "011.webp",
+      "width": 1000,
+      "height": 1549
+    },
+    {
+      "page": "012.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "013.webp",
+      "width": 960,
+      "height": 1505
+    },
+    {
+      "page": "014.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "015.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "016.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "017.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "018.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "019.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "020.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "021.webp",
+      "width": 2000,
+      "height": 1544
+    },
+    {
+      "page": "022.webp",
+      "width": 1000,
+      "height": 1583
+    },
+    {
+      "page": "023.webp",
+      "width": 1000,
+      "height": 1568
+    },
+    {
+      "page": "024.webp",
+      "width": 1000,
+      "height": 1583
+    }
+  ]
+}
