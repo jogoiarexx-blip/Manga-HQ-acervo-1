@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "series": "Spawn: A Idade das Trevas",
+  "title": "Spawn: A Idade das Trevas #7",
+  "issue": 7,
+  "folder": "Spawn - A Idade das Trevas #07",
+  "sourceFormat": "CBR",
+  "pageFormat": "WebP",
+  "pageCount": 25,
+  "cover": "001.webp",
+  "pages": [
+    "001.webp",
+    "002.webp",
+    "003.webp",
+    "004.webp",
+    "005.webp",
+    "006.webp",
+    "007.webp",
+    "008.webp",
+    "009.webp",
+    "010.webp",
+    "011.webp",
+    "012.webp",
+    "013.webp",
+    "014.webp",
+    "015.webp",
+    "016.webp",
+    "017.webp",
+    "018.webp",
+    "019.webp",
+    "020.webp",
+    "021.webp",
+    "022.webp",
+    "023.webp",
+    "024.webp",
+    "025.webp"
+  ],
+  "sourcePages": [
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_c00.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_c01.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_ic1.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p01.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p02.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p03.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p04.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p05.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p06.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p07.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p08.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p09.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p10.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p11.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p12.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p13.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p14.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p15.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p16.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p17.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p18.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p19.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p20.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p21.jpg",
+    "Spawn - A Idade das Trevas #07 (GdG-SQ)/Spawn-The_Dark_Ages_7_p22.jpg"
+  ],
+  "dimensions": [
+    {
+      "page": "001.webp",
+      "width": 981,
+      "height": 1517
+    },
+    {
+      "page": "002.webp",
+      "width": 981,
+      "height": 1517
+    },
+    {
+      "page": "003.webp",
+      "width": 979,
+      "height": 1516
+    },
+    {
+      "page": "004.webp",
+      "width": 979,
+      "height": 1516
+    },
+    {
+      "page": "005.webp",
+      "width": 978,
+      "height": 1518
+    },
+    {
+      "page": "006.webp",
+      "width": 978,
+      "height": 1519
+    },
+    {
+      "page": "007.webp",
+      "width": 977,
+      "height": 1516
+    },
+    {
+      "page": "008.webp",
+      "width": 976,
+      "height": 1519
+    },
+    {
+      "page": "009.webp",
+      "width": 979,
+      "height": 1518
+    },
+    {
+      "page": "010.webp",
+      "width": 975,
+      "height": 1518
+    },
+    {
+      "page": "011.webp",
+      "width": 978,
+      "height": 1517
+    },
+    {
+      "page": "012.webp",
+      "width": 971,
+      "height": 1518
+    },
+    {
+      "page": "013.webp",
+      "width": 974,
+      "height": 1511
+    },
+    {
+      "page": "014.webp",
+      "width": 973,
+      "height": 1516
+    },
+    {
+      "page": "015.webp",
+      "width": 974,
+      "height": 1515
+    },
+    {
+      "page": "016.webp",
+      "width": 973,
+      "height": 1518
+    },
+    {
+      "page": "017.webp",
+      "width": 974,
+      "height": 1515
+    },
+    {
+      "page": "018.webp",
+      "width": 972,
+      "height": 1517
+    },
+    {
+      "page": "019.webp",
+      "width": 968,
+      "height": 1515
+    },
+    {
+      "page": "020.webp",
+      "width": 970,
+      "height": 1515
+    },
+    {
+      "page": "021.webp",
+      "width": 975,
+      "height": 1518
+    },
+    {
+      "page": "022.webp",
+      "width": 971,
+      "height": 1517
+    },
+    {
+      "page": "023.webp",
+      "width": 976,
+      "height": 1516
+    },
+    {
+      "page": "024.webp",
+      "width": 972,
+      "height": 1517
+    },
+    {
+      "page": "025.webp",
+      "width": 975,
+      "height": 1514
+    }
+  ]
+}
