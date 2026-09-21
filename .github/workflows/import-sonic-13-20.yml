@@ -1,0 +1,106 @@
+name: Importar Sonic 13-20
+
+on:
+  push:
+    branches:
+      - sonic-import-13-20
+    paths:
+      - 'import/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout da branch de importacao
+        uses: actions/checkout@v4
+        with:
+          ref: sonic-import-13-20
+          fetch-depth: 0
+
+      - name: Extrair pacotes
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/sonic-import
+          mkdir -p /tmp/sonic-import
+          for z in import/sonic-*.zip; do
+            unzip -q "$z" -d /tmp/sonic-import
+          done
+          test -f /tmp/sonic-import/deploy-meta.json
+          test -f /tmp/sonic-import/colecoes/sonic/serie-principal/series.json
+
+      - name: Validar HQs
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          root=pathlib.Path('/tmp/sonic-import/colecoes/sonic/serie-principal')
+          expected={13:33,14:28,15:28,16:28,17:31,18:29,19:30,20:28}
+          total=0
+          for issue,count in expected.items():
+              d=root/f'{issue:02d}'
+              m=json.loads((d/'manifest.json').read_text(encoding='utf-8'))
+              pages=sorted(d.glob('*.webp'))
+              assert len(pages)==count, (issue,len(pages),count)
+              assert m.get('page_count')==count, (issue,m.get('page_count'),count)
+              assert pages[0].name=='001.webp'
+              total+=len(pages)
+          assert total==235, total
+          print('Validacao OK:', total, 'paginas WebP')
+          PY
+
+      - name: Publicar na main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout -B main origin/main
+          mkdir -p colecoes/sonic
+          rm -rf colecoes/sonic/serie-principal
+          cp -a /tmp/sonic-import/colecoes/sonic/serie-principal colecoes/sonic/
+
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          catalog_path=Path('catalogo.json')
+          meta_path=Path('/tmp/sonic-import/deploy-meta.json')
+          catalog=json.loads(catalog_path.read_text(encoding='utf-8'))
+          meta=json.loads(meta_path.read_text(encoding='utf-8'))
+          new_items=meta['issues']
+          new_ids={x['id'] for x in new_items}
+
+          collections=catalog.setdefault('collections',[])
+          collection=next((c for c in collections if c.get('id')=='sonic'),None)
+          if collection is None:
+              collection={'id':'sonic','title':'Sonic the Hedgehog','issues':[]}
+              collections.append(collection)
+
+          existing=[x for x in collection.get('issues',[]) if x.get('id') not in new_ids]
+          collection['issues']=existing+[
+              {k:v for k,v in x.items() if k not in ('collectionId','collectionTitle')}
+              for x in new_items
+          ]
+
+          items=[x for x in catalog.get('items',[]) if x.get('id') not in new_ids]
+          items.extend(new_items)
+          catalog['items']=items
+          catalog['itemCount']=len(items)
+
+          catalog_path.write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          PY
+
+          git config user.name "Manga HQ Acervo Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add catalogo.json colecoes/sonic/serie-principal
+          git commit -m "Publica Sonic the Hedgehog #13-#20"
+          git push origin main
+
+      - name: Remover branch temporaria
+        if: success()
+        shell: bash
+        run: |
+          git push origin --delete sonic-import-13-20 || true
