@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "series": "Spawn: A Idade das Trevas",
+  "title": "Spawn: A Idade das Trevas #4",
+  "issue": 4,
+  "folder": "Spawn - A Idade das Trevas #04",
+  "sourceFormat": "CBR",
+  "pageFormat": "WebP",
+  "pageCount": 23,
+  "cover": "001.webp",
+  "pages": [
+    "001.webp",
+    "002.webp",
+    "003.webp",
+    "004.webp",
+    "005.webp",
+    "006.webp",
+    "007.webp",
+    "008.webp",
+    "009.webp",
+    "010.webp",
+    "011.webp",
+    "012.webp",
+    "013.webp",
+    "014.webp",
+    "015.webp",
+    "016.webp",
+    "017.webp",
+    "018.webp",
+    "019.webp",
+    "020.webp",
+    "021.webp",
+    "022.webp",
+    "023.webp"
+  ],
+  "sourcePages": [
+    "Spawn - The Dark Ages # 04/Image01.jpg",
+    "Spawn - The Dark Ages # 04/Image02.jpg",
+    "Spawn - The Dark Ages # 04/Image03.jpg",
+    "Spawn - The Dark Ages # 04/Image04.jpg",
+    "Spawn - The Dark Ages # 04/Image05.jpg",
+    "Spawn - The Dark Ages # 04/Image06.jpg",
+    "Spawn - The Dark Ages # 04/Image07.jpg",
+    "Spawn - The Dark Ages # 04/Image08.jpg",
+    "Spawn - The Dark Ages # 04/Image09.jpg",
+    "Spawn - The Dark Ages # 04/Image10-11.jpg",
+    "Spawn - The Dark Ages # 04/Image12.jpg",
+    "Spawn - The Dark Ages # 04/Image13.jpg",
+    "Spawn - The Dark Ages # 04/Image14-15.jpg",
+    "Spawn - The Dark Ages # 04/Image16.jpg",
+    "Spawn - The Dark Ages # 04/Image17.jpg",
+    "Spawn - The Dark Ages # 04/Image18.jpg",
+    "Spawn - The Dark Ages # 04/Image19.jpg",
+    "Spawn - The Dark Ages # 04/Image20.jpg",
+    "Spawn - The Dark Ages # 04/Image21.jpg",
+    "Spawn - The Dark Ages # 04/Image22.jpg",
+    "Spawn - The Dark Ages # 04/Image23.jpg",
+    "Spawn - The Dark Ages # 04/Image24.jpg",
+    "Spawn - The Dark Ages # 04/xxxxGdG.jpg"
+  ],
+  "dimensions": [
+    {
+      "page": "001.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "002.webp",
+      "width": 1272,
+      "height": 1968
+    },
+    {
+      "page": "003.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "004.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "005.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "006.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "007.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "008.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "009.webp",
+      "width": 1264,
+      "height": 1968
+    },
+    {
+      "page": "010.webp",
+      "width": 2529,
+      "height": 1968
+    },
+    {
+      "page": "011.webp",
+      "width": 1266,
+      "height": 1968
+    },
+    {
+      "page": "012.webp",
+      "width": 1262,
+      "height": 1968
+    },
+    {
+      "page": "013.webp",
+      "width": 2515,
+      "height": 1968
+    },
+    {
+      "page": "014.webp",
+      "width": 1242,
+      "height": 1968
+    },
+    {
+      "page": "015.webp",
+      "width": 1241,
+      "height": 1968
+    },
+    {
+      "page": "016.webp",
+      "width": 1242,
+      "height": 1968
+    },
+    {
+      "page": "017.webp",
+      "width": 1241,
+      "height": 1968
+    },
+    {
+      "page": "018.webp",
+      "width": 1242,
+      "height": 1968
+    },
+    {
+      "page": "019.webp",
+      "width": 1241,
+      "height": 1968
+    },
+    {
+      "page": "020.webp",
+      "width": 1242,
+      "height": 1968
+    },
+    {
+      "page": "021.webp",
+      "width": 1241,
+      "height": 1968
+    },
+    {
+      "page": "022.webp",
+      "width": 1242,
+      "height": 1968
+    },
+    {
+      "page": "023.webp",
+      "width": 1047,
+      "height": 1599
+    }
+  ]
+}
