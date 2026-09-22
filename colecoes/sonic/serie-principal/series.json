@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "series": "Sonic, the Hedgehog",
+  "format": "webp",
+  "first_issue": 13,
+  "last_issue": 20,
+  "total_issues": 8,
+  "issues": [
+    {
+      "issue": 13,
+      "title": "Sonic, the Hedgehog #13",
+      "folder": "13",
+      "manifest": "13/manifest.json",
+      "cover": "13/001.webp",
+      "page_count": 33
+    },
+    {
+      "issue": 14,
+      "title": "Sonic, the Hedgehog #14",
+      "folder": "14",
+      "manifest": "14/manifest.json",
+      "cover": "14/001.webp",
+      "page_count": 28
+    },
+    {
+      "issue": 15,
+      "title": "Sonic, the Hedgehog #15",
+      "folder": "15",
+      "manifest": "15/manifest.json",
+      "cover": "15/001.webp",
+      "page_count": 28
+    },
+    {
+      "issue": 16,
+      "title": "Sonic, the Hedgehog #16",
+      "folder": "16",
+      "manifest": "16/manifest.json",
+      "cover": "16/001.webp",
+      "page_count": 28
+    },
+    {
+      "issue": 17,
+      "title": "Sonic, the Hedgehog #17",
+      "folder": "17",
+      "manifest": "17/manifest.json",
+      "cover": "17/001.webp",
+      "page_count": 31
+    },
+    {
+      "issue": 18,
+      "title": "Sonic, the Hedgehog #18",
+      "folder": "18",
+      "manifest": "18/manifest.json",
+      "cover": "18/001.webp",
+      "page_count": 29
+    },
+    {
+      "issue": 19,
+      "title": "Sonic, the Hedgehog #19",
+      "folder": "19",
+      "manifest": "19/manifest.json",
+      "cover": "19/001.webp",
+      "page_count": 30
+    },
+    {
+      "issue": 20,
+      "title": "Sonic, the Hedgehog #20",
+      "folder": "20",
+      "manifest": "20/manifest.json",
+      "cover": "20/001.webp",
+      "page_count": 28
+    }
+  ]
+}
