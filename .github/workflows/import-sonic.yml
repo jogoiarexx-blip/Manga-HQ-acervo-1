@@ -27,18 +27,16 @@ jobs:
             echo "ready=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Reconstruir e validar pacotes
+      - name: Reconstruir e validar pacote
         if: steps.ready.outputs.ready == 'true'
         shell: bash
         run: |
           set -euo pipefail
+          cat upload-parts/sonic-deploy.bigpart* > /tmp/sonic-deploy.zip
+          unzip -tq /tmp/sonic-deploy.zip
           rm -rf /tmp/sonic-extracted
           mkdir -p /tmp/sonic-extracted
-          for bundle in sonic-13-14.zip sonic-15-16.zip sonic-17-18.zip sonic-19-20.zip; do
-            cat upload-parts/"$bundle".part* > /tmp/"$bundle"
-            unzip -tq /tmp/"$bundle"
-            unzip -q -o /tmp/"$bundle" -d /tmp/sonic-extracted
-          done
+          unzip -q /tmp/sonic-deploy.zip -d /tmp/sonic-extracted
           test -f /tmp/sonic-extracted/colecoes/sonic/serie-principal/series.json
           for issue in 13 14 15 16 17 18 19 20; do
             test -f "/tmp/sonic-extracted/colecoes/sonic/serie-principal/$issue/manifest.json"
