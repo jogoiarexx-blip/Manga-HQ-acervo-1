@@ -1,0 +1,81 @@
+name: Fast Import Sonic PDFs 29-35
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/import-sonic-pdfs-fast.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  import-pdfs:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: jogoiarexx-blip/Manga-HQ-acervo-1
+    steps:
+      - name: Download optimized PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/sonic
+          curl -L --fail --retry 3 'https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-6af4-81fa-b8ea-f5c6b3e60e6b/raw?se=2026-09-22T16%3A00%3A09Z&sp=r&sv=2026-02-06&sr=b&scid=7a714bed-5cc2-5292-a2a1-4571d68dcb21&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T10%3A32%3A14Z&ske=2026-09-23T10%3A32%3A14Z&sks=b&skv=2026-02-06&sig=Afie1FXTO2QQcZ78dtnVnb3jZ5Zl5%2BjBAHMZAEFA2PE%3D' -o /tmp/sonic/29.pdf
+          curl -L --fail --retry 3 'https://sdmntprindiasocentral.oaiusercontent.com/files/00000000-b1e8-8211-8dcf-86364981c76e/raw?se=2026-09-22T16%3A00%3A21Z&sp=r&sv=2026-02-06&sr=b&scid=f5223a92-3113-5ccf-bce4-b72e20cec1ff&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T15%3A28%3A34Z&ske=2026-09-23T15%3A28%3A34Z&sks=b&skv=2026-02-06&sig=IEWpWHjv5XDD9J60Txh4ENFqhNIM/lFsgGW2geENZNA%3D' -o /tmp/sonic/30.pdf
+          curl -L --fail --retry 3 'https://sdmntprcentralindia.oaiusercontent.com/files/00000000-4f3c-8208-ad5a-85d34053b9dc/raw?se=2026-09-22T16%3A00%3A35Z&sp=r&sv=2026-02-06&sr=b&scid=1ddbcfe6-ad8a-5d52-8f83-1eeeae6bd939&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T11%3A19%3A44Z&ske=2026-09-23T11%3A19%3A44Z&sks=b&skv=2026-02-06&sig=NNlYHSYM%2BpozRfdjIA0uQPhOl9YT4k3qhWma73tCsR0%3D' -o /tmp/sonic/31.pdf
+          curl -L --fail --retry 3 'https://sdmntprsoutheastus3.oaiusercontent.com/files/00000000-1a7c-820c-81a0-267660c8d3fd/raw?se=2026-09-22T16%3A00%3A45Z&sp=r&sv=2026-02-06&sr=b&scid=1c0acf51-1c0e-5f81-862f-9d9b0255613b&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T12%3A39%3A28Z&ske=2026-09-23T12%3A39%3A28Z&sks=b&skv=2026-02-06&sig=DpRhVbSI83eH8o5nkoabZUblCb4RfjmBl9rBvG9TGqE%3D' -o /tmp/sonic/32.pdf
+          curl -L --fail --retry 3 'https://sdmntprwestus3.oaiusercontent.com/files/00000000-dfc0-81fd-abcf-d120bbf2a348/raw?se=2026-09-22T16%3A00%3A53Z&sp=r&sv=2026-02-06&sr=b&scid=d403986c-5d6a-5af0-b79e-64751b25edc4&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T13%3A56%3A47Z&ske=2026-09-23T13%3A56%3A47Z&sks=b&skv=2026-02-06&sig=4V%2BPP11tFjNUEOG5EZ/Fh6I4zkwW%2BUA3xhKLS909pWg%3D' -o /tmp/sonic/33.pdf
+          curl -L --fail --retry 3 'https://sdmntpritalynorth.oaiusercontent.com/files/00000000-21bc-8246-b853-582114bc7c4a/raw?se=2026-09-22T16%3A01%3A03Z&sp=r&sv=2026-02-06&sr=b&scid=805dc325-b20a-5031-89cb-3ac09a8e46ee&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T12%3A17%3A43Z&ske=2026-09-23T12%3A17%3A43Z&sks=b&skv=2026-02-06&sig=Uo9pvjulfY%2BjYKpOs7o5rb/xVGxx69vwLCe/K7Qpv4M%3D' -o /tmp/sonic/34.pdf
+          curl -L --fail --retry 3 'https://sdmntprkoreacentral.oaiusercontent.com/files/00000000-fafc-8206-9576-b985f3d4052b/raw?se=2026-09-22T16%3A01%3A38Z&sp=r&sv=2026-02-06&sr=b&scid=6aa72375-2f34-5a09-8fe9-e874305246a5&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T15%3A21%3A12Z&ske=2026-09-23T15%3A21%3A12Z&sks=b&skv=2026-02-06&sig=hNTxBn6AdJXcfy7tUaYQPFM7K5apqYDvRxPHOP39MEo%3D' -o /tmp/sonic/35.pdf
+          test "$(stat -c%s /tmp/sonic/29.pdf)" -eq 10426157
+          test "$(stat -c%s /tmp/sonic/30.pdf)" -eq 11947971
+          test "$(stat -c%s /tmp/sonic/31.pdf)" -eq 11542996
+          test "$(stat -c%s /tmp/sonic/32.pdf)" -eq 10982856
+          test "$(stat -c%s /tmp/sonic/33.pdf)" -eq 11731594
+          test "$(stat -c%s /tmp/sonic/34.pdf)" -eq 10832740
+          test "$(stat -c%s /tmp/sonic/35.pdf)" -eq 10775108
+
+      - name: Write blobs and commit via Git Data API
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import os, json, base64, urllib.request
+          token=os.environ["GH_TOKEN"]
+          repo=os.environ["GH_REPO"]
+          api="https://api.github.com/repos/"+repo
+          def req(method, path, payload=None):
+              data=None if payload is None else json.dumps(payload).encode()
+              r=urllib.request.Request(api+path, data=data, method=method, headers={
+                  "Authorization":"Bearer "+token,
+                  "Accept":"application/vnd.github+json",
+                  "X-GitHub-Api-Version":"2022-11-28",
+                  "Content-Type":"application/json",
+                  "User-Agent":"sonic-import-action"
+              })
+              with urllib.request.urlopen(r) as resp:
+                  return json.load(resp)
+
+          ref=req("GET","/git/ref/heads/main")
+          parent=ref["object"]["sha"]
+          commit=req("GET","/git/commits/"+parent)
+          base_tree=commit["tree"]["sha"]
+          tree=[]
+          for n in range(29,36):
+              p=f"/tmp/sonic/{n}.pdf"
+              with open(p,"rb") as f:
+                  content=base64.b64encode(f.read()).decode("ascii")
+              blob=req("POST","/git/blobs",{"content":content,"encoding":"base64"})
+              tree.append({
+                  "path":f"colecoes/sonic/saga-29-49/{n}/Sonic-the-Hedgehog-{n}.pdf",
+                  "mode":"100644","type":"blob","sha":blob["sha"]
+              })
+          newtree=req("POST","/git/trees",{"base_tree":base_tree,"tree":tree})
+          newcommit=req("POST","/git/commits",{
+              "message":"Atualizar Sonic 29-35 com PDFs otimizados para web",
+              "tree":newtree["sha"],
+              "parents":[parent]
+          })
+          req("PATCH","/git/refs/heads/main",{"sha":newcommit["sha"],"force":False})
+          print("commit",newcommit["sha"])
+          PY
