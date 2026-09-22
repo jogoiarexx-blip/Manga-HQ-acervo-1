@@ -3,8 +3,8 @@
   "series": "Sonic, the Hedgehog",
   "format": "webp",
   "first_issue": 13,
-  "last_issue": 20,
-  "total_issues": 8,
+  "last_issue": 28,
+  "total_issues": 16,
   "issues": [
     {
       "issue": 13,
@@ -69,6 +69,71 @@
       "manifest": "20/manifest.json",
       "cover": "20/001.webp",
       "page_count": 28
+    },
+    {
+      "issue": 21,
+      "title": "Sonic, the Hedgehog #21",
+      "folder": "Sonic, the Hedgehog #21",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2321/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2321/001.webp",
+      "page_count": 28
+    },
+    {
+      "issue": 22,
+      "title": "Sonic, the Hedgehog #22",
+      "folder": "Sonic, the Hedgehog #22",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2322/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2322/001.webp",
+      "page_count": 28
+    },
+    {
+      "issue": 23,
+      "title": "Sonic, the Hedgehog #23",
+      "folder": "Sonic, the Hedgehog #23",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2323/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2323/001.webp",
+      "page_count": 28
+    },
+    {
+      "issue": 24,
+      "title": "Sonic, the Hedgehog #24",
+      "folder": "Sonic, the Hedgehog #24",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2324/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2324/001.webp",
+      "page_count": 28
+    },
+    {
+      "issue": 25,
+      "title": "Sonic, the Hedgehog #25",
+      "folder": "Sonic, the Hedgehog #25",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2325/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2325/001.webp",
+      "page_count": 37
+    },
+    {
+      "issue": 26,
+      "title": "Sonic, the Hedgehog #26",
+      "folder": "Sonic, the Hedgehog #26",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2326/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2326/001.webp",
+      "page_count": 32
+    },
+    {
+      "issue": 27,
+      "title": "Sonic, the Hedgehog #27",
+      "folder": "Sonic, the Hedgehog #27",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2327/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2327/001.webp",
+      "page_count": 34
+    },
+    {
+      "issue": 28,
+      "title": "Sonic, the Hedgehog #28",
+      "folder": "Sonic, the Hedgehog #28",
+      "manifest": "Sonic%2C%20the%20Hedgehog%20%2328/manifest.json",
+      "cover": "Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
+      "page_count": 32
     }
-  ]
+  ],
+  "total_pages": 482
 }
