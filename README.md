@@ -2,9 +2,7 @@
 
 Acervo separado para consumo pelo Manga/HQ Reader via GitHub Pages.
 
-**Arquivo principal:** `catalogo.json`
-
-**URL publicada:**
+**Catálogo público:**
 
 `https://jogoiarexx-blip.github.io/Manga-HQ-acervo-1/catalogo.json`
 
@@ -18,4 +16,10 @@ Acervo separado para consumo pelo Manga/HQ Reader via GitHub Pages.
 
 Total: **57 edições**.
 
+## Estrutura
+
 Cada edição possui `manifest.json`, capa e páginas WebP numeradas.
+
+Para manter o GitHub Pages abaixo do limite de tamanho, o Pages publica apenas o site e o catálogo. As capas, manifests e páginas WebP continuam armazenados neste repositório e são carregados pelo `raw.githubusercontent.com`.
+
+O arquivo `_config.yml` exclui a pasta `colecoes` do pacote publicado pelo GitHub Pages; isso não remove nenhuma HQ do repositório.
