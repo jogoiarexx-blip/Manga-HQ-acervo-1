@@ -1,0 +1,107 @@
+name: Gerar capas dos PDFs do Sonic
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'colecoes/sonic/serie-principal/**/*.pdf'
+      - '.github/workflows/pdf-covers.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-capas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependências
+        run: python -m pip install --upgrade pymupdf pillow
+
+      - name: Gerar cover.webp e atualizar índices
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import json
+          import fitz
+          from PIL import Image
+
+          root = Path('.')
+          catalog_path = root / 'catalogo.json'
+          series_path = root / 'colecoes/sonic/serie-principal/series.json'
+
+          catalog = json.loads(catalog_path.read_text(encoding='utf-8'))
+          series = json.loads(series_path.read_text(encoding='utf-8'))
+
+          base_raw = 'https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/'
+          generated = []
+
+          flat_by_id = {str(x.get('id')): x for x in catalog.get('items', [])}
+          sonic_collection = next((c for c in catalog.get('collections', []) if c.get('id') == 'sonic'), None)
+          sonic_by_id = {str(x.get('id')): x for x in (sonic_collection or {}).get('issues', [])}
+          series_by_issue = {int(x.get('issue')): x for x in series.get('issues', []) if x.get('issue') is not None}
+
+          for item in catalog.get('items', []):
+              if item.get('collectionId') != 'sonic' or item.get('format') != 'pdf':
+                  continue
+
+              issue = int(item['issue'])
+              pdf = root / f'colecoes/sonic/serie-principal/{issue}/Sonic-the-Hedgehog-{issue}.pdf'
+              cover = pdf.parent / 'cover.webp'
+              if not pdf.exists():
+                  print(f'AVISO: PDF não encontrado: {pdf}')
+                  continue
+
+              needs_render = not cover.exists() or cover.stat().st_mtime < pdf.stat().st_mtime
+              if needs_render:
+                  doc = fitz.open(pdf)
+                  try:
+                      page = doc.load_page(0)
+                      pix = page.get_pixmap(matrix=fitz.Matrix(1.7, 1.7), alpha=False)
+                      image = Image.frombytes('RGB', (pix.width, pix.height), pix.samples)
+                      image.thumbnail((900, 1400), Image.Resampling.LANCZOS)
+                      image.save(cover, 'WEBP', quality=84, method=6)
+                      generated.append(str(cover))
+                      print(f'CAPA: {issue} -> {cover}')
+                  finally:
+                      doc.close()
+
+              rel = cover.as_posix()
+              cover_url = base_raw + rel
+              item['cover'] = cover_url
+
+              cid = str(item.get('id'))
+              if cid in sonic_by_id:
+                  sonic_by_id[cid]['cover'] = cover_url
+
+              if issue in series_by_issue:
+                  series_by_issue[issue]['cover'] = f'{issue}/cover.webp'
+
+          catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          series_path.write_text(json.dumps(series, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          print(f'Capas novas/atualizadas: {len(generated)}')
+          PY
+
+      - name: Salvar capas no repositório
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalogo.json colecoes/sonic/serie-principal/series.json
+          find colecoes/sonic/serie-principal -name 'cover.webp' -print0 | xargs -0 -r git add
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração necessária."
+          else
+            git commit -m "Gerar capas dos PDFs do Sonic"
+            git push
+          fi
