@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "series": "Sonic, the Hedgehog",
-  "format": "webp",
+  "format": "mixed",
   "first_issue": 13,
-  "last_issue": 28,
-  "total_issues": 16,
+  "last_issue": 33,
+  "total_issues": 21,
   "issues": [
     {
       "issue": 13,
@@ -133,7 +133,54 @@
       "manifest": "Sonic%2C%20the%20Hedgehog%20%2328/manifest.json",
       "cover": "Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
       "page_count": 32
+    },
+    {
+      "issue": 29,
+      "title": "Sonic, the Hedgehog #29",
+      "folder": "29",
+      "format": "pdf",
+      "file": "29/Sonic-the-Hedgehog-29.pdf",
+      "size": 8741559,
+      "page_count": null
+    },
+    {
+      "issue": 30,
+      "title": "Sonic, the Hedgehog #30",
+      "folder": "30",
+      "format": "pdf",
+      "file": "30/Sonic-the-Hedgehog-30.pdf",
+      "size": 8105883,
+      "page_count": null
+    },
+    {
+      "issue": 31,
+      "title": "Sonic, the Hedgehog #31",
+      "folder": "31",
+      "format": "pdf",
+      "file": "31/Sonic-the-Hedgehog-31.pdf",
+      "size": 8666701,
+      "page_count": null
+    },
+    {
+      "issue": 32,
+      "title": "Sonic, the Hedgehog #32",
+      "folder": "32",
+      "format": "pdf",
+      "file": "32/Sonic-the-Hedgehog-32.pdf",
+      "size": 16268329,
+      "page_count": null
+    },
+    {
+      "issue": 33,
+      "title": "Sonic, the Hedgehog #33",
+      "folder": "33",
+      "format": "pdf",
+      "file": "33/Sonic-the-Hedgehog-33.pdf",
+      "size": 9294715,
+      "page_count": null
     }
   ],
-  "total_pages": 482
+  "total_pages": 482,
+  "total_pages_known": 482,
+  "total_pages_complete": false
 }

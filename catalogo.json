@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "Manga HQ Acervo - Teste",
-  "format": "webp-pages",
+  "format": "mixed",
   "collections": [
     {
       "id": "godzilla-vs-power-rangers",
@@ -244,6 +244,46 @@
           "pageCount": 32,
           "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
           "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-29",
+          "issue": 29,
+          "title": "Sonic the Hedgehog #29",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/29/Sonic-the-Hedgehog-29.pdf",
+          "size": 8741559
+        },
+        {
+          "id": "sonic-the-hedgehog-30",
+          "issue": 30,
+          "title": "Sonic the Hedgehog #30",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/30/Sonic-the-Hedgehog-30.pdf",
+          "size": 8105883
+        },
+        {
+          "id": "sonic-the-hedgehog-31",
+          "issue": 31,
+          "title": "Sonic the Hedgehog #31",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/31/Sonic-the-Hedgehog-31.pdf",
+          "size": 8666701
+        },
+        {
+          "id": "sonic-the-hedgehog-32",
+          "issue": 32,
+          "title": "Sonic the Hedgehog #32",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/32/Sonic-the-Hedgehog-32.pdf",
+          "size": 16268329
+        },
+        {
+          "id": "sonic-the-hedgehog-33",
+          "issue": 33,
+          "title": "Sonic the Hedgehog #33",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/33/Sonic-the-Hedgehog-33.pdf",
+          "size": 9294715
         }
       ]
     },
@@ -1048,9 +1088,63 @@
       "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-29",
+      "issue": 29,
+      "title": "Sonic the Hedgehog #29",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/29/Sonic-the-Hedgehog-29.pdf",
+      "size": 8741559,
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-30",
+      "issue": 30,
+      "title": "Sonic the Hedgehog #30",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/30/Sonic-the-Hedgehog-30.pdf",
+      "size": 8105883,
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-31",
+      "issue": 31,
+      "title": "Sonic the Hedgehog #31",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/31/Sonic-the-Hedgehog-31.pdf",
+      "size": 8666701,
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-32",
+      "issue": 32,
+      "title": "Sonic the Hedgehog #32",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/32/Sonic-the-Hedgehog-32.pdf",
+      "size": 16268329,
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-33",
+      "issue": 33,
+      "title": "Sonic the Hedgehog #33",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/33/Sonic-the-Hedgehog-33.pdf",
+      "size": 9294715,
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
     }
   ],
-  "itemCount": 57,
+  "itemCount": 62,
   "assetHost": "raw.githubusercontent.com",
-  "assetBase": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/"
+  "assetBase": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/",
+  "supportedFormats": [
+    "webp-pages",
+    "pdf"
+  ]
 }
