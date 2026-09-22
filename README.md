@@ -13,8 +13,9 @@ Acervo separado para consumo pelo Manga/HQ Reader via GitHub Pages.
 - Godzilla vs Power Rangers #1 a #5
 - Sonic the Hedgehog: Caras Maus #1 a #4
 - Sonic the Hedgehog: Síndrome do Impostor #1 a #4
+- Sonic the Hedgehog — série principal #13 a #28
 - Spawn: A Idade das Trevas #1 a #28
 
-Total: **41 edições**.
+Total: **57 edições**.
 
 Cada edição possui `manifest.json`, capa e páginas WebP numeradas.
