@@ -5,7 +5,7 @@ on:
     branches:
       - sonic-import-13-20
     paths:
-      - 'import/READY'
+      - 'import/READY2'
 
 permissions:
   contents: write
@@ -20,19 +20,21 @@ jobs:
           ref: sonic-import-13-20
           fetch-depth: 0
 
-      - name: Extrair pacotes
+      - name: Remontar e extrair pacotes
         shell: bash
         run: |
           set -euo pipefail
           rm -rf /tmp/sonic-import
-          mkdir -p /tmp/sonic-import
-          for z in import/sonic-*.zip; do
-            unzip -q "$z" -d /tmp/sonic-import
+          mkdir -p /tmp/sonic-import /tmp/sonic-zips
+          for base in sonic-13-14 sonic-15-16 sonic-17-18 sonic-19-20; do
+            cat import/chunks/${base}.zip.part* > /tmp/sonic-zips/${base}.zip
+            unzip -tq /tmp/sonic-zips/${base}.zip >/dev/null
+            unzip -q /tmp/sonic-zips/${base}.zip -d /tmp/sonic-import
           done
           test -f /tmp/sonic-import/deploy-meta.json
           test -f /tmp/sonic-import/colecoes/sonic/serie-principal/series.json
 
-      - name: Validar HQs
+      - name: Validar 235 paginas
         shell: bash
         run: |
           python - <<'PY'
@@ -65,7 +67,6 @@ jobs:
           python - <<'PY'
           import json
           from pathlib import Path
-
           catalog_path=Path('catalogo.json')
           meta_path=Path('/tmp/sonic-import/deploy-meta.json')
           catalog=json.loads(catalog_path.read_text(encoding='utf-8'))
@@ -89,7 +90,6 @@ jobs:
           items.extend(new_items)
           catalog['items']=items
           catalog['itemCount']=len(items)
-
           catalog_path.write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           PY
 
