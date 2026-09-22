@@ -5,18 +5,29 @@ on:
   push:
     branches: [main]
     paths:
-      - 'colecoes/sonic/serie-principal/**/*.pdf'
+      - 'colecoes/sonic/**/*.pdf'
       - '.github/workflows/pdf-covers.yml'
 
 permissions:
   contents: write
 
+concurrency:
+  group: sonic-pdf-covers
+  cancel-in-progress: true
+
 jobs:
   gerar-capas:
     runs-on: ubuntu-latest
     steps:
-      - name: Baixar repositório
+      - name: Baixar somente arquivos necessários
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            catalogo.json
+            colecoes/sonic
+            .github/workflows/pdf-covers.yml
 
       - name: Preparar Python
         uses: actions/setup-python@v5
@@ -26,43 +37,43 @@ jobs:
       - name: Instalar dependências
         run: python -m pip install --upgrade pymupdf pillow
 
-      - name: Gerar cover.webp e atualizar índices
+      - name: Gerar capas reais da primeira página
         shell: bash
         run: |
           python <<'PY'
           from pathlib import Path
+          from urllib.parse import unquote
           import json
           import fitz
           from PIL import Image
 
           root = Path('.')
           catalog_path = root / 'catalogo.json'
-          series_path = root / 'colecoes/sonic/serie-principal/series.json'
-
           catalog = json.loads(catalog_path.read_text(encoding='utf-8'))
-          series = json.loads(series_path.read_text(encoding='utf-8'))
+          raw_prefix = 'https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/'
 
-          base_raw = 'https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/'
-          generated = []
+          by_id = {}
+          for collection in catalog.get('collections', []):
+              for issue in collection.get('issues', []):
+                  by_id[str(issue.get('id'))] = issue
 
-          flat_by_id = {str(x.get('id')): x for x in catalog.get('items', [])}
-          sonic_collection = next((c for c in catalog.get('collections', []) if c.get('id') == 'sonic'), None)
-          sonic_by_id = {str(x.get('id')): x for x in (sonic_collection or {}).get('issues', [])}
-          series_by_issue = {int(x.get('issue')): x for x in series.get('issues', []) if x.get('issue') is not None}
-
+          changed = 0
           for item in catalog.get('items', []):
-              if item.get('collectionId') != 'sonic' or item.get('format') != 'pdf':
+              if item.get('format') != 'pdf' or not str(item.get('id','')).startswith('sonic-the-hedgehog-'):
                   continue
 
-              issue = int(item['issue'])
-              pdf = root / f'colecoes/sonic/serie-principal/{issue}/Sonic-the-Hedgehog-{issue}.pdf'
-              cover = pdf.parent / 'cover.webp'
+              file_url = str(item.get('file') or '')
+              if not file_url.startswith(raw_prefix):
+                  print(f'AVISO: URL fora do repositório: {file_url}')
+                  continue
+
+              pdf = root / unquote(file_url[len(raw_prefix):])
               if not pdf.exists():
                   print(f'AVISO: PDF não encontrado: {pdf}')
                   continue
 
-              needs_render = not cover.exists() or cover.stat().st_mtime < pdf.stat().st_mtime
-              if needs_render:
+              cover = pdf.parent / 'cover.webp'
+              if not cover.exists() or cover.stat().st_mtime < pdf.stat().st_mtime:
                   doc = fitz.open(pdf)
                   try:
                       page = doc.load_page(0)
@@ -70,26 +81,18 @@ jobs:
                       image = Image.frombytes('RGB', (pix.width, pix.height), pix.samples)
                       image.thumbnail((900, 1400), Image.Resampling.LANCZOS)
                       image.save(cover, 'WEBP', quality=84, method=6)
-                      generated.append(str(cover))
-                      print(f'CAPA: {issue} -> {cover}')
+                      changed += 1
+                      print(f'CAPA: {item.get("id")} -> {cover}')
                   finally:
                       doc.close()
 
-              rel = cover.as_posix()
-              cover_url = base_raw + rel
+              cover_url = raw_prefix + cover.as_posix()
               item['cover'] = cover_url
-
-              cid = str(item.get('id'))
-              if cid in sonic_by_id:
-                  sonic_by_id[cid]['cover'] = cover_url
-
-              if issue in series_by_issue:
-                  series_by_issue[issue]['cover'] = f'{issue}/cover.webp'
+              if str(item.get('id')) in by_id:
+                  by_id[str(item.get('id'))]['cover'] = cover_url
 
           catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-          series_path.write_text(json.dumps(series, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-
-          print(f'Capas novas/atualizadas: {len(generated)}')
+          print(f'Capas novas/atualizadas: {changed}')
           PY
 
       - name: Salvar capas no repositório
@@ -97,8 +100,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalogo.json colecoes/sonic/serie-principal/series.json
-          find colecoes/sonic/serie-principal -name 'cover.webp' -print0 | xargs -0 -r git add
+          git add catalogo.json
+          find colecoes/sonic -name 'cover.webp' -print0 | xargs -0 -r git add
           if git diff --cached --quiet; then
             echo "Nenhuma alteração necessária."
           else
