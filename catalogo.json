@@ -180,6 +180,70 @@
           "pageCount": 28,
           "cover": "colecoes/sonic/serie-principal/20/001.webp",
           "manifest": "colecoes/sonic/serie-principal/20/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-21",
+          "issue": 21,
+          "title": "Sonic the Hedgehog #21",
+          "pageCount": 28,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-22",
+          "issue": 22,
+          "title": "Sonic the Hedgehog #22",
+          "pageCount": 28,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-23",
+          "issue": 23,
+          "title": "Sonic the Hedgehog #23",
+          "pageCount": 28,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-24",
+          "issue": 24,
+          "title": "Sonic the Hedgehog #24",
+          "pageCount": 28,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-25",
+          "issue": 25,
+          "title": "Sonic the Hedgehog #25",
+          "pageCount": 37,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-26",
+          "issue": 26,
+          "title": "Sonic the Hedgehog #26",
+          "pageCount": 32,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-27",
+          "issue": 27,
+          "title": "Sonic the Hedgehog #27",
+          "pageCount": 34,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/manifest.json"
+        },
+        {
+          "id": "sonic-the-hedgehog-28",
+          "issue": 28,
+          "title": "Sonic the Hedgehog #28",
+          "pageCount": 32,
+          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
+          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json"
         }
       ]
     },
@@ -904,7 +968,87 @@
       "manifest": "colecoes/sonic/serie-principal/20/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-21",
+      "issue": 21,
+      "title": "Sonic the Hedgehog #21",
+      "pageCount": 28,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-22",
+      "issue": 22,
+      "title": "Sonic the Hedgehog #22",
+      "pageCount": 28,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-23",
+      "issue": 23,
+      "title": "Sonic the Hedgehog #23",
+      "pageCount": 28,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-24",
+      "issue": 24,
+      "title": "Sonic the Hedgehog #24",
+      "pageCount": 28,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-25",
+      "issue": 25,
+      "title": "Sonic the Hedgehog #25",
+      "pageCount": 37,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-26",
+      "issue": 26,
+      "title": "Sonic the Hedgehog #26",
+      "pageCount": 32,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-27",
+      "issue": 27,
+      "title": "Sonic the Hedgehog #27",
+      "pageCount": 34,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
+    },
+    {
+      "id": "sonic-the-hedgehog-28",
+      "issue": 28,
+      "title": "Sonic the Hedgehog #28",
+      "pageCount": 32,
+      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
+      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json",
+      "collectionId": "sonic",
+      "collectionTitle": "Sonic the Hedgehog"
     }
   ],
-  "itemCount": 49
+  "itemCount": 57
 }
