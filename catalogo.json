@@ -12,40 +12,40 @@
           "issue": 1,
           "title": "Godzilla vs Power Rangers #1",
           "pageCount": 22,
-          "cover": "colecoes/godzilla-vs-power-rangers/01/001.webp",
-          "manifest": "colecoes/godzilla-vs-power-rangers/01/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/01/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/01/manifest.json"
         },
         {
           "id": "godzilla-vs-power-rangers-2",
           "issue": 2,
           "title": "Godzilla vs Power Rangers #2",
           "pageCount": 22,
-          "cover": "colecoes/godzilla-vs-power-rangers/02/001.webp",
-          "manifest": "colecoes/godzilla-vs-power-rangers/02/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/02/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/02/manifest.json"
         },
         {
           "id": "godzilla-vs-power-rangers-3",
           "issue": 3,
           "title": "Godzilla vs Power Rangers #3",
           "pageCount": 24,
-          "cover": "colecoes/godzilla-vs-power-rangers/03/001.webp",
-          "manifest": "colecoes/godzilla-vs-power-rangers/03/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/03/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/03/manifest.json"
         },
         {
           "id": "godzilla-vs-power-rangers-4",
           "issue": 4,
           "title": "Godzilla vs Power Rangers #4",
           "pageCount": 23,
-          "cover": "colecoes/godzilla-vs-power-rangers/04/001.webp",
-          "manifest": "colecoes/godzilla-vs-power-rangers/04/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/04/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/04/manifest.json"
         },
         {
           "id": "godzilla-vs-power-rangers-5",
           "issue": 5,
           "title": "Godzilla vs Power Rangers #5",
           "pageCount": 22,
-          "cover": "colecoes/godzilla-vs-power-rangers/05/001.webp",
-          "manifest": "colecoes/godzilla-vs-power-rangers/05/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/05/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/05/manifest.json"
         }
       ]
     },
@@ -58,192 +58,192 @@
           "issue": 1,
           "title": "Sonic the Hedgehog: Caras Maus #1",
           "pageCount": 32,
-          "cover": "colecoes/sonic/caras-maus/01/001.webp",
-          "manifest": "colecoes/sonic/caras-maus/01/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/01/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/01/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-caras-maus-2",
           "issue": 2,
           "title": "Sonic the Hedgehog: Caras Maus #2",
           "pageCount": 31,
-          "cover": "colecoes/sonic/caras-maus/02/001.webp",
-          "manifest": "colecoes/sonic/caras-maus/02/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/02/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/02/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-caras-maus-3",
           "issue": 3,
           "title": "Sonic the Hedgehog: Caras Maus #3",
           "pageCount": 31,
-          "cover": "colecoes/sonic/caras-maus/03/001.webp",
-          "manifest": "colecoes/sonic/caras-maus/03/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/03/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/03/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-caras-maus-4",
           "issue": 4,
           "title": "Sonic the Hedgehog: Caras Maus #4",
           "pageCount": 32,
-          "cover": "colecoes/sonic/caras-maus/04/001.webp",
-          "manifest": "colecoes/sonic/caras-maus/04/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/04/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/04/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-sindrome-do-impostor-1",
           "issue": 1,
           "title": "Sonic the Hedgehog: Síndrome do Impostor #1",
           "pageCount": 33,
-          "cover": "colecoes/sonic/sindrome-do-impostor/01/001.webp",
-          "manifest": "colecoes/sonic/sindrome-do-impostor/01/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/01/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/01/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-sindrome-do-impostor-2",
           "issue": 2,
           "title": "Sonic the Hedgehog: Síndrome do Impostor #2",
           "pageCount": 32,
-          "cover": "colecoes/sonic/sindrome-do-impostor/02/001.webp",
-          "manifest": "colecoes/sonic/sindrome-do-impostor/02/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/02/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/02/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-sindrome-do-impostor-3",
           "issue": 3,
           "title": "Sonic the Hedgehog: Síndrome do Impostor #3",
           "pageCount": 34,
-          "cover": "colecoes/sonic/sindrome-do-impostor/03/001.webp",
-          "manifest": "colecoes/sonic/sindrome-do-impostor/03/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/03/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/03/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-sindrome-do-impostor-4",
           "issue": 4,
           "title": "Sonic the Hedgehog: Síndrome do Impostor #4",
           "pageCount": 36,
-          "cover": "colecoes/sonic/sindrome-do-impostor/04/001.webp",
-          "manifest": "colecoes/sonic/sindrome-do-impostor/04/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/04/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/04/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-13",
           "issue": 13,
           "title": "Sonic the Hedgehog #13",
           "pageCount": 33,
-          "cover": "colecoes/sonic/serie-principal/13/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/13/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/13/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/13/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-14",
           "issue": 14,
           "title": "Sonic the Hedgehog #14",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/14/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/14/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/14/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/14/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-15",
           "issue": 15,
           "title": "Sonic the Hedgehog #15",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/15/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/15/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/15/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/15/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-16",
           "issue": 16,
           "title": "Sonic the Hedgehog #16",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/16/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/16/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/16/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/16/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-17",
           "issue": 17,
           "title": "Sonic the Hedgehog #17",
           "pageCount": 31,
-          "cover": "colecoes/sonic/serie-principal/17/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/17/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/17/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/17/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-18",
           "issue": 18,
           "title": "Sonic the Hedgehog #18",
           "pageCount": 29,
-          "cover": "colecoes/sonic/serie-principal/18/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/18/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/18/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/18/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-19",
           "issue": 19,
           "title": "Sonic the Hedgehog #19",
           "pageCount": 30,
-          "cover": "colecoes/sonic/serie-principal/19/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/19/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/19/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/19/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-20",
           "issue": 20,
           "title": "Sonic the Hedgehog #20",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/20/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/20/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/20/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/20/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-21",
           "issue": 21,
           "title": "Sonic the Hedgehog #21",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-22",
           "issue": 22,
           "title": "Sonic the Hedgehog #22",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-23",
           "issue": 23,
           "title": "Sonic the Hedgehog #23",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-24",
           "issue": 24,
           "title": "Sonic the Hedgehog #24",
           "pageCount": 28,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-25",
           "issue": 25,
           "title": "Sonic the Hedgehog #25",
           "pageCount": 37,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-26",
           "issue": 26,
           "title": "Sonic the Hedgehog #26",
           "pageCount": 32,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-27",
           "issue": 27,
           "title": "Sonic the Hedgehog #27",
           "pageCount": 34,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/manifest.json"
         },
         {
           "id": "sonic-the-hedgehog-28",
           "issue": 28,
           "title": "Sonic the Hedgehog #28",
           "pageCount": 32,
-          "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
-          "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json"
         }
       ]
     },
@@ -256,224 +256,224 @@
           "issue": 1,
           "title": "Spawn: A Idade das Trevas #1",
           "pageCount": 24,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-2",
           "issue": 2,
           "title": "Spawn: A Idade das Trevas #2",
           "pageCount": 23,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-3",
           "issue": 3,
           "title": "Spawn: A Idade das Trevas #3",
           "pageCount": 25,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-4",
           "issue": 4,
           "title": "Spawn: A Idade das Trevas #4",
           "pageCount": 23,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-5",
           "issue": 5,
           "title": "Spawn: A Idade das Trevas #5",
           "pageCount": 25,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-6",
           "issue": 6,
           "title": "Spawn: A Idade das Trevas #6",
           "pageCount": 25,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-7",
           "issue": 7,
           "title": "Spawn: A Idade das Trevas #7",
           "pageCount": 25,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-8",
           "issue": 8,
           "title": "Spawn: A Idade das Trevas #8",
           "pageCount": 25,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-9",
           "issue": 9,
           "title": "Spawn: A Idade das Trevas #9",
           "pageCount": 24,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-10",
           "issue": 10,
           "title": "Spawn: A Idade das Trevas #10",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-11",
           "issue": 11,
           "title": "Spawn: A Idade das Trevas #11",
           "pageCount": 26,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-12",
           "issue": 12,
           "title": "Spawn: A Idade das Trevas #12",
           "pageCount": 24,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-13",
           "issue": 13,
           "title": "Spawn: A Idade das Trevas #13",
           "pageCount": 24,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-14",
           "issue": 14,
           "title": "Spawn: A Idade das Trevas #14",
           "pageCount": 24,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-15",
           "issue": 15,
           "title": "Spawn: A Idade das Trevas #15",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-16",
           "issue": 16,
           "title": "Spawn: A Idade das Trevas #16",
           "pageCount": 23,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-17",
           "issue": 17,
           "title": "Spawn: A Idade das Trevas #17",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-18",
           "issue": 18,
           "title": "Spawn: A Idade das Trevas #18",
           "pageCount": 23,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-19",
           "issue": 19,
           "title": "Spawn: A Idade das Trevas #19",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-20",
           "issue": 20,
           "title": "Spawn: A Idade das Trevas #20",
           "pageCount": 23,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-21",
           "issue": 21,
           "title": "Spawn: A Idade das Trevas #21",
           "pageCount": 23,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-22",
           "issue": 22,
           "title": "Spawn: A Idade das Trevas #22",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-23",
           "issue": 23,
           "title": "Spawn: A Idade das Trevas #23",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-24",
           "issue": 24,
           "title": "Spawn: A Idade das Trevas #24",
           "pageCount": 24,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-25",
           "issue": 25,
           "title": "Spawn: A Idade das Trevas #25",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-26",
           "issue": 26,
           "title": "Spawn: A Idade das Trevas #26",
           "pageCount": 21,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-27",
           "issue": 27,
           "title": "Spawn: A Idade das Trevas #27",
           "pageCount": 22,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/manifest.json"
         },
         {
           "id": "spawn-a-idade-das-trevas-28",
           "issue": 28,
           "title": "Spawn: A Idade das Trevas #28",
           "pageCount": 21,
-          "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/001.webp",
-          "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/manifest.json"
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/001.webp",
+          "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/manifest.json"
         }
       ]
     }
@@ -484,8 +484,8 @@
       "issue": 1,
       "title": "Godzilla vs Power Rangers #1",
       "pageCount": 22,
-      "cover": "colecoes/godzilla-vs-power-rangers/01/001.webp",
-      "manifest": "colecoes/godzilla-vs-power-rangers/01/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/01/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/01/manifest.json",
       "collectionId": "godzilla-vs-power-rangers",
       "collectionTitle": "Godzilla vs Power Rangers"
     },
@@ -494,8 +494,8 @@
       "issue": 2,
       "title": "Godzilla vs Power Rangers #2",
       "pageCount": 22,
-      "cover": "colecoes/godzilla-vs-power-rangers/02/001.webp",
-      "manifest": "colecoes/godzilla-vs-power-rangers/02/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/02/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/02/manifest.json",
       "collectionId": "godzilla-vs-power-rangers",
       "collectionTitle": "Godzilla vs Power Rangers"
     },
@@ -504,8 +504,8 @@
       "issue": 3,
       "title": "Godzilla vs Power Rangers #3",
       "pageCount": 24,
-      "cover": "colecoes/godzilla-vs-power-rangers/03/001.webp",
-      "manifest": "colecoes/godzilla-vs-power-rangers/03/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/03/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/03/manifest.json",
       "collectionId": "godzilla-vs-power-rangers",
       "collectionTitle": "Godzilla vs Power Rangers"
     },
@@ -514,8 +514,8 @@
       "issue": 4,
       "title": "Godzilla vs Power Rangers #4",
       "pageCount": 23,
-      "cover": "colecoes/godzilla-vs-power-rangers/04/001.webp",
-      "manifest": "colecoes/godzilla-vs-power-rangers/04/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/04/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/04/manifest.json",
       "collectionId": "godzilla-vs-power-rangers",
       "collectionTitle": "Godzilla vs Power Rangers"
     },
@@ -524,8 +524,8 @@
       "issue": 5,
       "title": "Godzilla vs Power Rangers #5",
       "pageCount": 22,
-      "cover": "colecoes/godzilla-vs-power-rangers/05/001.webp",
-      "manifest": "colecoes/godzilla-vs-power-rangers/05/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/05/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/godzilla-vs-power-rangers/05/manifest.json",
       "collectionId": "godzilla-vs-power-rangers",
       "collectionTitle": "Godzilla vs Power Rangers"
     },
@@ -534,8 +534,8 @@
       "issue": 1,
       "title": "Sonic the Hedgehog: Caras Maus #1",
       "pageCount": 32,
-      "cover": "colecoes/sonic/caras-maus/01/001.webp",
-      "manifest": "colecoes/sonic/caras-maus/01/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/01/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/01/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -544,8 +544,8 @@
       "issue": 2,
       "title": "Sonic the Hedgehog: Caras Maus #2",
       "pageCount": 31,
-      "cover": "colecoes/sonic/caras-maus/02/001.webp",
-      "manifest": "colecoes/sonic/caras-maus/02/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/02/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/02/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -554,8 +554,8 @@
       "issue": 3,
       "title": "Sonic the Hedgehog: Caras Maus #3",
       "pageCount": 31,
-      "cover": "colecoes/sonic/caras-maus/03/001.webp",
-      "manifest": "colecoes/sonic/caras-maus/03/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/03/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/03/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -564,8 +564,8 @@
       "issue": 4,
       "title": "Sonic the Hedgehog: Caras Maus #4",
       "pageCount": 32,
-      "cover": "colecoes/sonic/caras-maus/04/001.webp",
-      "manifest": "colecoes/sonic/caras-maus/04/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/04/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/caras-maus/04/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -574,8 +574,8 @@
       "issue": 1,
       "title": "Sonic the Hedgehog: Síndrome do Impostor #1",
       "pageCount": 33,
-      "cover": "colecoes/sonic/sindrome-do-impostor/01/001.webp",
-      "manifest": "colecoes/sonic/sindrome-do-impostor/01/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/01/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/01/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -584,8 +584,8 @@
       "issue": 2,
       "title": "Sonic the Hedgehog: Síndrome do Impostor #2",
       "pageCount": 32,
-      "cover": "colecoes/sonic/sindrome-do-impostor/02/001.webp",
-      "manifest": "colecoes/sonic/sindrome-do-impostor/02/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/02/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/02/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -594,8 +594,8 @@
       "issue": 3,
       "title": "Sonic the Hedgehog: Síndrome do Impostor #3",
       "pageCount": 34,
-      "cover": "colecoes/sonic/sindrome-do-impostor/03/001.webp",
-      "manifest": "colecoes/sonic/sindrome-do-impostor/03/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/03/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/03/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -604,8 +604,8 @@
       "issue": 4,
       "title": "Sonic the Hedgehog: Síndrome do Impostor #4",
       "pageCount": 36,
-      "cover": "colecoes/sonic/sindrome-do-impostor/04/001.webp",
-      "manifest": "colecoes/sonic/sindrome-do-impostor/04/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/04/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/sindrome-do-impostor/04/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -614,8 +614,8 @@
       "issue": 1,
       "title": "Spawn: A Idade das Trevas #1",
       "pageCount": 24,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2301/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -624,8 +624,8 @@
       "issue": 2,
       "title": "Spawn: A Idade das Trevas #2",
       "pageCount": 23,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2302/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -634,8 +634,8 @@
       "issue": 3,
       "title": "Spawn: A Idade das Trevas #3",
       "pageCount": 25,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2303/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -644,8 +644,8 @@
       "issue": 4,
       "title": "Spawn: A Idade das Trevas #4",
       "pageCount": 23,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2304/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -654,8 +654,8 @@
       "issue": 5,
       "title": "Spawn: A Idade das Trevas #5",
       "pageCount": 25,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2305/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -664,8 +664,8 @@
       "issue": 6,
       "title": "Spawn: A Idade das Trevas #6",
       "pageCount": 25,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2306/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -674,8 +674,8 @@
       "issue": 7,
       "title": "Spawn: A Idade das Trevas #7",
       "pageCount": 25,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2307/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -684,8 +684,8 @@
       "issue": 8,
       "title": "Spawn: A Idade das Trevas #8",
       "pageCount": 25,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2308/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -694,8 +694,8 @@
       "issue": 9,
       "title": "Spawn: A Idade das Trevas #9",
       "pageCount": 24,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2309/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -704,8 +704,8 @@
       "issue": 10,
       "title": "Spawn: A Idade das Trevas #10",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2310/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -714,8 +714,8 @@
       "issue": 11,
       "title": "Spawn: A Idade das Trevas #11",
       "pageCount": 26,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2311/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -724,8 +724,8 @@
       "issue": 12,
       "title": "Spawn: A Idade das Trevas #12",
       "pageCount": 24,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2312/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -734,8 +734,8 @@
       "issue": 13,
       "title": "Spawn: A Idade das Trevas #13",
       "pageCount": 24,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2313/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -744,8 +744,8 @@
       "issue": 14,
       "title": "Spawn: A Idade das Trevas #14",
       "pageCount": 24,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2314/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -754,8 +754,8 @@
       "issue": 15,
       "title": "Spawn: A Idade das Trevas #15",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2315/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -764,8 +764,8 @@
       "issue": 16,
       "title": "Spawn: A Idade das Trevas #16",
       "pageCount": 23,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2316/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -774,8 +774,8 @@
       "issue": 17,
       "title": "Spawn: A Idade das Trevas #17",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2317/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -784,8 +784,8 @@
       "issue": 18,
       "title": "Spawn: A Idade das Trevas #18",
       "pageCount": 23,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2318/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -794,8 +794,8 @@
       "issue": 19,
       "title": "Spawn: A Idade das Trevas #19",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2319/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -804,8 +804,8 @@
       "issue": 20,
       "title": "Spawn: A Idade das Trevas #20",
       "pageCount": 23,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2320/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -814,8 +814,8 @@
       "issue": 21,
       "title": "Spawn: A Idade das Trevas #21",
       "pageCount": 23,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2321/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -824,8 +824,8 @@
       "issue": 22,
       "title": "Spawn: A Idade das Trevas #22",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2322/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -834,8 +834,8 @@
       "issue": 23,
       "title": "Spawn: A Idade das Trevas #23",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2323/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -844,8 +844,8 @@
       "issue": 24,
       "title": "Spawn: A Idade das Trevas #24",
       "pageCount": 24,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2324/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -854,8 +854,8 @@
       "issue": 25,
       "title": "Spawn: A Idade das Trevas #25",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2325/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -864,8 +864,8 @@
       "issue": 26,
       "title": "Spawn: A Idade das Trevas #26",
       "pageCount": 21,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2326/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -874,8 +874,8 @@
       "issue": 27,
       "title": "Spawn: A Idade das Trevas #27",
       "pageCount": 22,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2327/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -884,8 +884,8 @@
       "issue": 28,
       "title": "Spawn: A Idade das Trevas #28",
       "pageCount": 21,
-      "cover": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/001.webp",
-      "manifest": "colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/Spawn%20A%20Idade%20das%20Trevas/Spawn%20-%20A%20Idade%20das%20Trevas%20%2328/manifest.json",
       "collectionId": "spawn-a-idade-das-trevas",
       "collectionTitle": "Spawn: A Idade das Trevas"
     },
@@ -894,8 +894,8 @@
       "issue": 13,
       "title": "Sonic the Hedgehog #13",
       "pageCount": 33,
-      "cover": "colecoes/sonic/serie-principal/13/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/13/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/13/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/13/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -904,8 +904,8 @@
       "issue": 14,
       "title": "Sonic the Hedgehog #14",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/14/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/14/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/14/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/14/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -914,8 +914,8 @@
       "issue": 15,
       "title": "Sonic the Hedgehog #15",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/15/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/15/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/15/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/15/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -924,8 +924,8 @@
       "issue": 16,
       "title": "Sonic the Hedgehog #16",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/16/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/16/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/16/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/16/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -934,8 +934,8 @@
       "issue": 17,
       "title": "Sonic the Hedgehog #17",
       "pageCount": 31,
-      "cover": "colecoes/sonic/serie-principal/17/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/17/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/17/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/17/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -944,8 +944,8 @@
       "issue": 18,
       "title": "Sonic the Hedgehog #18",
       "pageCount": 29,
-      "cover": "colecoes/sonic/serie-principal/18/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/18/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/18/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/18/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -954,8 +954,8 @@
       "issue": 19,
       "title": "Sonic the Hedgehog #19",
       "pageCount": 30,
-      "cover": "colecoes/sonic/serie-principal/19/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/19/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/19/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/19/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -964,8 +964,8 @@
       "issue": 20,
       "title": "Sonic the Hedgehog #20",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/20/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/20/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/20/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/20/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -974,8 +974,8 @@
       "issue": 21,
       "title": "Sonic the Hedgehog #21",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2321/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -984,8 +984,8 @@
       "issue": 22,
       "title": "Sonic the Hedgehog #22",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2322/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -994,8 +994,8 @@
       "issue": 23,
       "title": "Sonic the Hedgehog #23",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2323/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -1004,8 +1004,8 @@
       "issue": 24,
       "title": "Sonic the Hedgehog #24",
       "pageCount": 28,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2324/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -1014,8 +1014,8 @@
       "issue": 25,
       "title": "Sonic the Hedgehog #25",
       "pageCount": 37,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2325/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -1024,8 +1024,8 @@
       "issue": 26,
       "title": "Sonic the Hedgehog #26",
       "pageCount": 32,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2326/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -1034,8 +1034,8 @@
       "issue": 27,
       "title": "Sonic the Hedgehog #27",
       "pageCount": 34,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2327/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     },
@@ -1044,11 +1044,13 @@
       "issue": 28,
       "title": "Sonic the Hedgehog #28",
       "pageCount": 32,
-      "cover": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
-      "manifest": "colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/001.webp",
+      "manifest": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/sonic/serie-principal/Sonic%2C%20the%20Hedgehog%20%2328/manifest.json",
       "collectionId": "sonic",
       "collectionTitle": "Sonic the Hedgehog"
     }
   ],
-  "itemCount": 57
+  "itemCount": 57,
+  "assetHost": "raw.githubusercontent.com",
+  "assetBase": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-1/main/colecoes/"
 }
