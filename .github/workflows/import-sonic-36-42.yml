@@ -1,0 +1,49 @@
+name: Import Sonic PDFs 36-42
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/import-sonic-36-42.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: jogoiarexx-blip/Manga-HQ-acervo-1
+    steps:
+      - name: Import PDFs via Git Data API
+        shell: bash
+        run: |
+          cat > /tmp/import.py <<'PY'
+          import os, json, base64, urllib.request
+          token=os.environ["GH_TOKEN"]; repo=os.environ["GH_REPO"]; api="https://api.github.com/repos/"+repo
+          urls={"36":"https://sdmntprcentralus.oaiusercontent.com/files/00000000-4250-81f5-8df3-bafa65205fea/raw?se=2026-09-22T16%3A29%3A46Z&sp=r&sv=2026-02-06&sr=b&scid=216612d1-0689-5211-9548-5b19f46e4833&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T13%3A11%3A29Z&ske=2026-09-23T13%3A11%3A29Z&sks=b&skv=2026-02-06&sig=u8oT4K2PrnsDGhSpWXrqbB5bGK8d1uiIDz1psIRxFq4%3D","37":"https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-6b3c-822f-b819-c833e117862b/raw?se=2026-09-22T16%3A29%3A56Z&sp=r&sv=2026-02-06&sr=b&scid=205d2fe5-5b12-5c6f-9318-04b7e4cb959c&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T14%3A22%3A39Z&ske=2026-09-23T14%3A22%3A39Z&sks=b&skv=2026-02-06&sig=gO%2B1zmbn35JpdhVmhSKoIbrp5nshvaaqJRWdMhQZB1k%3D","38":"https://sdmntprcentralus.oaiusercontent.com/files/00000000-ab28-81f5-a506-b0854ca2dd24/raw?se=2026-09-22T16%3A30%3A05Z&sp=r&sv=2026-02-06&sr=b&scid=ba01d476-aacd-517c-8c27-a55aec7ccc68&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T11%3A48%3A09Z&ske=2026-09-23T11%3A48%3A09Z&sks=b&skv=2026-02-06&sig=PWF3nSTkMC6I0Vf68CY770D4FGvfaK1dw0XDkXV2FVc%3D","39":"https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-fabc-820e-88b9-268cb993f627/raw?se=2026-09-22T16%3A30%3A10Z&sp=r&sv=2026-02-06&sr=b&scid=337fbe03-fdf4-5dca-a161-4220935560d3&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T13%3A09%3A27Z&ske=2026-09-23T13%3A09%3A27Z&sks=b&skv=2026-02-06&sig=ADjJ0vML%2BHEhSpItON5IXwBu7EpyIJfAhgw/VXkwW8g%3D","40":"https://sdmntprcentralus.oaiusercontent.com/files/00000000-c070-81f5-8ada-98c122881bad/raw?se=2026-09-22T16%3A31%3A17Z&sp=r&sv=2026-02-06&sr=b&scid=2cd0937c-715b-5661-80b2-988258d44689&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T16%3A08%3A22Z&ske=2026-09-23T16%3A08%3A22Z&sks=b&skv=2026-02-06&sig=k5k6JVP67CDx5Q2330baTZM05BcVY%2BkzNnS91l699qE%3D","41":"https://sdmntprcentralus.oaiusercontent.com/files/00000000-978c-81f5-9215-a8e7f55b75c6/raw?se=2026-09-22T16%3A31%3A26Z&sp=r&sv=2026-02-06&sr=b&scid=c7045ce2-9917-528a-8dc2-c17548c0ba15&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T12%3A16%3A03Z&ske=2026-09-23T12%3A16%3A03Z&sks=b&skv=2026-02-06&sig=0TXE6ipq83hwqhRUY/L12suORyZpY%2BCt/qdE7ikR7aQ%3D","42":"https://sdmntpreastus2.oaiusercontent.com/files/00000000-289c-81f6-b227-99572ee30dc8/raw?se=2026-09-22T16%3A31%3A33Z&sp=r&sv=2026-02-06&sr=b&scid=a2008593-2ef8-5c8b-adb8-bf14293c6d4a&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-22T15%3A57%3A22Z&ske=2026-09-23T15%3A57%3A22Z&sks=b&skv=2026-02-06&sig=3Y/HvMkcR86sa1XWizM0qC0%2B/8M3/HcF4kPzqiTlUe8%3D"}
+          sizes={"36":11352091,"37":13398345,"38":10455509,"39":10911099,"40":10489430,"41":10097257,"42":9927292}
+          
+          def req(method,path,payload=None):
+              data=None if payload is None else json.dumps(payload).encode()
+              r=urllib.request.Request(api+path,data=data,method=method,headers={"Authorization":"Bearer "+token,"Accept":"application/vnd.github+json","X-GitHub-Api-Version":"2022-11-28","Content-Type":"application/json","User-Agent":"sonic-import-action"})
+              with urllib.request.urlopen(r) as resp: return json.load(resp)
+          ref=req("GET","/git/ref/heads/main"); parent=ref["object"]["sha"]
+          commit=req("GET","/git/commits/"+parent); base_tree=commit["tree"]["sha"]
+          tree=[]
+          for n in range(36,43):
+              n=str(n)
+              p="/tmp/"+n+".pdf"
+              urllib.request.urlretrieve(urls[n],p)
+              assert os.path.getsize(p)==sizes[n], (n,os.path.getsize(p),sizes[n])
+              with open(p,"rb") as f: content=base64.b64encode(f.read()).decode("ascii")
+              blob=req("POST","/git/blobs",{"content":content,"encoding":"base64"})
+              tree.append({"path":f"colecoes/sonic/saga-29-49/{n}/Sonic-the-Hedgehog-{n}.pdf","mode":"100644","type":"blob","sha":blob["sha"]})
+          newtree=req("POST","/git/trees",{"base_tree":base_tree,"tree":tree})
+          newcommit=req("POST","/git/commits",{"message":"Atualizar Sonic 36-42 com PDFs otimizados para web","tree":newtree["sha"],"parents":[parent]})
+          req("PATCH","/git/refs/heads/main",{"sha":newcommit["sha"],"force":False})
+          print(newcommit["sha"])
+          
+          PY
+          python3 /tmp/import.py
